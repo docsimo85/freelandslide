@@ -20,11 +20,11 @@
             {#</div>#}
             {#{% endfor %}#}
             <div class="item active">
-                <img src="la.jpg" alt="Los Angeles" style="height:100%; width: auto; margin: 0 auto">
+                <img src="{{ asset('images/pippo.png') }}" alt="" style="height:100%; width: auto; margin: 0 auto">
             </div>
             {% for file in listafile  %}
                 <div class="item text-center">
-                    <img src="images/{{ file.filename }}" alt="Los Angeles" style="height:100%; width: auto; margin: 0 auto">
+                    <img src="images/{{ file.filename }}" alt="" style="height:100%; width: auto; margin: 0 auto">
                 </div>
             {% endfor %}
         </div>

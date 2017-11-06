@@ -26,7 +26,7 @@ class DefaultController extends Controller
 //            dump($file);
 
         }
-        dump($listafile);
+//        dump($listafile);
 
         return [
             'listafile'=>$listafile
