@@ -5,7 +5,7 @@
     <script src="{{ asset('bundles/app/assets/js/custom.js') }}"></script>
 </head>
 <body>
-<div class="container-fluid">
+<div class="container-fluid" style="height: 100%; position: relative; padding: 0!important; overflow: hidden">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             {#{% for file in listafile %}#}
@@ -20,16 +20,18 @@
             {#</div>#}
             {#{% endfor %}#}
             <div class="item active">
-                <img src="{{ asset('images/test1.jpg') }}" alt="" style="height:100%; width: auto; margin: 0 auto">
+                <img src="{{ asset('images/test1.jpg') }}" alt="" style="width:100%; margin: 0 auto">
             </div>
             {% for file in listafile  %}
                 {% if file.filename != 'test1.jpg' %}
                     <div class="item text-center">
-                        <img src="images/{{ file.filename }}" alt="" style="height:100%; width: auto; margin: 0 auto">
+                        <img src="images/{{ file.filename }}" alt="" style="width:100%; margin: 0 auto">
                     </div>
                 {% endif %}
             {% endfor %}
         </div>
+    </div>
+    <div class="bordo" style="width:100%; height: 15%; background-color: #3c763d; position: absolute; z-index: 1; bottom: 0">
 
     </div>
 </div>
