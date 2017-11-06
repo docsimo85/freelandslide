@@ -42,12 +42,11 @@
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
-              <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-              <caret line="27" column="88" lean-forward="false" selection-start-line="27" selection-start-column="88" selection-end-line="27" selection-end-column="88" />
+              <caret line="33" column="106" lean-forward="false" selection-start-line="33" selection-start-column="106" selection-end-line="33" selection-end-column="106" />
               <folding>
                 <element signature="e#384#464#0#HTML" expanded="true" />
                 <element signature="e#1150#1184#0#HTML" expanded="true" />
-                <element signature="e#1585#1686#0#HTML" expanded="true" />
+                <element signature="e#1420#1454#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -317,12 +316,12 @@
       <updated>1509451991177</updated>
       <workItem from="1509451993554" duration="11922000" />
       <workItem from="1509960732050" duration="8088000" />
-      <workItem from="1509974136917" duration="1626000" />
+      <workItem from="1509974136917" duration="2078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21636000" />
+    <option name="totallyTimeSpent" value="22088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="312" y="23" width="1267" height="1001" extended-state="0" />
@@ -392,7 +391,7 @@
           <folding>
             <element signature="e#384#464#0#HTML" expanded="true" />
             <element signature="e#1150#1184#0#HTML" expanded="true" />
-            <element signature="e#1585#1686#0#HTML" expanded="true" />
+            <element signature="e#1420#1454#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -414,7 +413,7 @@
           <folding>
             <element signature="e#384#464#0#HTML" expanded="true" />
             <element signature="e#1150#1184#0#HTML" expanded="true" />
-            <element signature="e#1585#1686#0#HTML" expanded="true" />
+            <element signature="e#1420#1454#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -484,12 +483,11 @@
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
-          <caret line="22" column="85" lean-forward="false" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
-          <caret line="27" column="88" lean-forward="false" selection-start-line="27" selection-start-column="88" selection-end-line="27" selection-end-column="88" />
+          <caret line="33" column="106" lean-forward="false" selection-start-line="33" selection-start-column="106" selection-end-line="33" selection-end-column="106" />
           <folding>
             <element signature="e#384#464#0#HTML" expanded="true" />
             <element signature="e#1150#1184#0#HTML" expanded="true" />
-            <element signature="e#1585#1686#0#HTML" expanded="true" />
+            <element signature="e#1420#1454#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
